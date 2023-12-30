@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#minha-foto {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 200;
+}
+
+p {
+  padding-bottom: 20px;
+  text-align: justify;
+}
+
+.container {
+  padding: 20px;
+}
+
+.container-logos {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.logos {
+  width: 50px;
+  height: 50px;
+  display: inline;
+}
+
+/* header {
+  padding: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  padding: 20px;
+} */
